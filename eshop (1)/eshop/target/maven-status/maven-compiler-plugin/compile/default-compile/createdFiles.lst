@@ -1,0 +1,6 @@
+com\mastek\eshop\model\Product.class
+com\mastek\eshop\repository\ProductRepository.class
+com\mastek\eshop\service\ProductService.class
+com\mastek\eshop\EshopApplication.class
+com\mastek\eshop\ServletInitializer.class
+com\mastek\eshop\controller\ProductController.class
